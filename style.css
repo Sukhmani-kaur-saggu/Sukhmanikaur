@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+}
+.image{
+    border-radius: 100%;
+}
+.main{
+    height: 1400px;
+    width: 1000px;
+    margin: auto;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 5%;
+}
+.side{
+    text-align: left;
+}
+.box{
+    height: 220px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 10%;
+}
+.mainbox{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+justify-content: space-between;
+margin: auto;
+}
+.pro{
+    height:200px;
+    width: 200px;
+    border-radius: 10%;
+}
